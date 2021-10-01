@@ -1,0 +1,12 @@
+.header {
+  /* margin-top: var(--header-height); */
+}
+.main {
+  margin-top: 1rem;
+  min-width: 320px;
+}
+
+@media (min-width: 576px) {}
+@media (min-width: 768px) {}
+@media (min-width: 992px) {}
+@media (min-width: 1200px) {}
